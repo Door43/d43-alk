@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[alk:home|Door43 (alk)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-alk|d43-alk repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-alk/archive/master.zip|d43-alk.zip]]
+
+**Recent Changes**
+{{changes>ns = alk}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/alk|Ethnologue data]]
+
